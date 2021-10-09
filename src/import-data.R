@@ -48,3 +48,5 @@ get_API_data <- function(.variable_name, .dates, smoothed=F) {
 
 depression <- get_API_data(survey_variable, date_range)
 depression_smoothed <- get_API_data(survey_variable, date_range, smoothed = T)
+write_rds(depression, "data/depression.RDS")
+write_rds(depression_smoothed, "data/depression_smoothed.RDS")
