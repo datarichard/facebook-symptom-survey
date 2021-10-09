@@ -23,3 +23,9 @@ nonresponse and coverage bias.
 
 Clone the repository, open the RStudio project, and run
 `facebook-symptom-survey.R`.
+
+<br><br>
+
+E.g.,
+
+![](results/example_figure-1.png)<!-- -->
