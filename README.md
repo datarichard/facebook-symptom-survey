@@ -1,10 +1,12 @@
 Facebook Symptom survey
 ================
 
-COVID symptom survey analysis for Australia and it’s regions.
+Depression symptom survey analysis and suicide in Australia and it’s
+regions.
 
 Exploration of data from the Global COVID-19 Trends and Impact Survey,
-formerly known as COVID-19 World Symptoms Survey.
+formerly known as COVID-19 World Symptoms Survey, and Australian State
+Government monthly suicide reports
 
 ## The Global COVID-19 Trends and Impact Survey
 
@@ -20,6 +22,23 @@ on a daily basis to report on topics including, for example, symptoms,
 social distancing behavior, vaccine acceptance, mental health issues,
 and financial constraints. Facebook provides weights to reduce
 nonresponse and coverage bias.
+
+## State Government Monthly Suicide reports
+
+The NSW Suicide Data Monitoring System (the System), established in
+October 2020, is a collaboration between the NSW Ministry of Health,
+Department of Communities and Justice, the State Coroner and NSW Police
+to enable the collection and reporting of information on recent
+suspected and confirmed suicides in NSW. [Monthly reports are published
+by NSW
+Health](https://www.health.nsw.gov.au/mentalhealth/Pages/suicide-monitoring-system.aspx).
+
+In Victoria the Coroners Court reviews newly reported deaths on a daily
+basis to identify those that occur in circumstances consistent with
+suicide and adds these deaths to the Victorian Suicide Register (VSR).
+The Victorian Coroners Court publishes a monthly research report on
+Victorian suicide statistics in the [Coroners Court Monthly Suicide Data
+Report](https://www.coronerscourt.vic.gov.au/forms-resources/publications?combine=&field_audience_target_id=All&field_publication_type_target_id=4392&year=2021).
 
 Clone the repository, open the RStudio project, and run
 `facebook-symptom-survey.R`.
