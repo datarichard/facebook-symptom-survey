@@ -11,9 +11,14 @@
 # RStudio files
 .Rproj.user/
 
-# produced markdowns
+# Markdown resources
 README.Rmd
+index.Rmd
 
+# PDFs and other forms
+*.pdf
+*.docx
+*.txt
 
 # knitr and R markdown default cache directories
 *_cache/

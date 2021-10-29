@@ -6,8 +6,6 @@
 library(tidyverse)
 
 # Data preprocessing
-require(httr) 
-require(jsonlite)
 source("src/import-data.R")
 
 # Update README

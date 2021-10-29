@@ -4,9 +4,9 @@ Facebook Symptom survey
 Depression symptom survey analysis and suicide in Australia and it’s
 regions.
 
-Exploration of data from the Global COVID-19 Trends and Impact Survey,
-formerly known as COVID-19 World Symptoms Survey, and Australian State
-Government monthly suicide reports
+Exploration of data from The University of Maryland Social Data Science
+Center Global COVID-19 Trends and Impact Survey, in partnership with
+Facebook, and Australian State Government monthly suicide reports.
 
 ## The Global COVID-19 Trends and Impact Survey
 
@@ -22,6 +22,20 @@ on a daily basis to report on topics including, for example, symptoms,
 social distancing behavior, vaccine acceptance, mental health issues,
 and financial constraints. Facebook provides weights to reduce
 nonresponse and coverage bias.
+
+Serendipitously I was invited to participate in the survey and managed
+to capture some screen shots. Here is an example of the invite that I
+saw:
+
+![](docs/facebook-symptom-survey-invite.png)
+
+<br>
+
+And the consent form from UMD:
+
+![](docs/facebook-symptom-survey-consent.png)
+
+<br><br>
 
 ## State Government Monthly Suicide reports
 
@@ -47,4 +61,4 @@ Clone the repository, open the RStudio project, and run
 
 E.g.,
 
-![](results/example_figure-1.png)<!-- -->
+![](results/depression_smoothed_21-1.png)
