@@ -19,6 +19,9 @@ index.Rmd
 *.pdf
 *.docx
 *.txt
+tppn\ item\ cut\ point.png
+tppn\ item.png
+**/Acces\ request
 
 # knitr and R markdown default cache directories
 *_cache/
